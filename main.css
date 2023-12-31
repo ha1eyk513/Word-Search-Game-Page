@@ -1,0 +1,70 @@
+main {
+  margin-left: 82px;
+  margin-top: 10px;
+}
+
+.Word-Search_Puzzle-main-title {
+  font-size: 33px;
+  padding-top: 37px;
+  padding-bottom: 10px;
+  color: #555555;
+  font-weight: 900;
+}
+
+.board-row {
+  display: flex;
+  align-items: center;
+}
+
+.board-column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #d9d9d8;
+  width: 52px;
+  height: 46px;
+  background-color: #fefffb;
+  font-weight: bold;
+  font-size: 28px;
+  color: #333333;
+}
+
+.Word-Search_Puzzle-main-game {
+  display: flex;
+  align-items: center;
+  width: 626px;
+  height: 680px;
+}
+
+.Word-Search_Puzzle-main-game-board {
+  width: 626px;
+  height: 680px;
+}
+
+.Word-Search_Puzzle-main-game-list {
+  width: 200px;
+  height: 720px;
+  padding-top: 50px;
+  padding-left: 20px;
+}
+
+.Word-Search_Puzzle-main-game-list div {
+  padding-bottom: 10px;
+  font-weight: bold;
+  color: #262625;
+}
+
+.Word-Search_Puzzle-main-icons {
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+  width: 800px;
+}
+
+.Word-Search_Puzzle-main-icons img {
+  width: 150px;
+}
+
+.Word-Search_Puzzle-main-icons-Download {
+  width: 170px;
+}

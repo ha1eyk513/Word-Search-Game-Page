@@ -1,0 +1,68 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 91vw;
+  height: 85px;
+  margin: 0px 78px 0px 78px;
+  border-bottom: 4px solid #008080;
+}
+
+.Word-Search_Puzzle-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 310px;
+}
+
+.Word-Search_Puzzle-title img {
+  width: 310px;
+}
+
+.Word-Search_Puzzle-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 540px;
+}
+
+.Word-Search_Puzzle-icons img {
+  width: 40px;
+}
+
+.Word-Search_Puzzle-icons-block-Pencil {
+  width: 220px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Word-Search_Puzzle-icons-block-Home {
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Word-Search_Puzzle-icons-block-Search {
+  width: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Word-Search_Puzzle-icons-block-text-Pencil {
+  width: 160px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.Word-Search_Puzzle-icons-block-text-Home {
+  width: 110px;
+  font-weight: bold;
+}
+
+.Word-Search_Puzzle-icons-block-text_Search {
+  width: 60px;
+  font-weight: bold;
+}
